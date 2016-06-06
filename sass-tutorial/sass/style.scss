@@ -1,0 +1,11 @@
+$width: 300px;
+$color: red;
+#maincontainer{
+    width: $width;
+    color: $color;
+    background: #333;
+}
+
+.container {
+  transform: rotate(45deg);
+}
